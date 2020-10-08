@@ -1,8 +1,8 @@
 # BÀI THỰC HÀNH SỐ 1
 ## HỌC PHẦN LẬP TRÌNH MẠNG
 ### Yêu cầu: 
-##### -Sinh viên thực hiện các bài thực hành dưới đây trên máy tính
-##### -Sinh viên chuẩn bị các tài liệu tham khảo, nội dung cần thực hiện trước khi vào phòng thực hành.
+##### - Sinh viên thực hiện các bài thực hành dưới đây trên máy tính
+##### - Sinh viên chuẩn bị các tài liệu tham khảo, nội dung cần thực hiện trước khi vào phòng thực hành.
 ##### - Đi thực hành đúng thời gian quy định
 ##### - Phải có kết quả sau mỗi buổi thực hành
 1. Xây dựng chương trình hội thoại Client/Server hoạt động theo giao thức TCP/IP
